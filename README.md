@@ -11,16 +11,7 @@ This project analyzes unemployment trends across different countries and time pe
 - pandas, numpy, matplotlib, seaborn, jupyter
 
 ## How to Run
-1. Clone the repository:
-   git clone https://github.com/username/unemployment-analysis.git
-2. Install dependencies:
+1. Install dependencies:
    pip install -r requirements.txt
-3. Open and run the notebook:
+2. Open and run the notebook:
    jupyter notebook unemployment_analysis.ipynb
-
-## Insights
-- Unemployment rates spiked in 2020 due to the pandemic.
-- GDP growth negatively correlates with unemployment.
-
-## License
-MIT License
